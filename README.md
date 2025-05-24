@@ -12,6 +12,7 @@ With experience in **software engineering** and **technical documentation**, I b
 
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sivajyothi-b-938b4024b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sivajyothib2004@gmail.com) 
 
